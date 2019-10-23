@@ -16,6 +16,7 @@
       <attribute id="numberofworks" title="numberofworks" type="integer"></attribute>
       <attribute id="maxyear" title="maxyear" type="integer"></attribute>
       <attribute id="timescited1990to2019" title="timescited1990to2019" type="integer"></attribute>
+      <attribute id="show_label" title="show_label" type="boolean"></attribute>
     </attributes>
     <attributes class="edge" mode="static">
       <attribute id="numberofcoauthoredworks1990to1994" title="numberofcoauthoredworks1990to1994" type="integer"></attribute>
@@ -229,6 +230,7 @@
           <attvalue for="numberofworks" value="1180"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="34344"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="25.864676"></viz:size>
         <viz:position x="-343.86432" y="83.36488"></viz:position>
@@ -263,6 +265,7 @@
           <attvalue for="numberofworks" value="1302"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="124988"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="36.616875"></viz:size>
         <viz:position x="103.95711" y="458.0858"></viz:position>
@@ -365,6 +368,7 @@
           <attvalue for="numberofworks" value="178"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="21555"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="9.25659"></viz:size>
         <viz:position x="128.33415" y="-70.27606"></viz:position>
@@ -433,6 +437,7 @@
           <attvalue for="numberofworks" value="961"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="70660"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="26.528997"></viz:size>
         <viz:position x="183.0468" y="-348.62033"></viz:position>
@@ -467,6 +472,7 @@
           <attvalue for="numberofworks" value="1451"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="180260"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="37.379612"></viz:size>
         <viz:position x="162.30217" y="-48.881847"></viz:position>
@@ -484,6 +490,7 @@
           <attvalue for="numberofworks" value="1287"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="38052"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="23.428822"></viz:size>
         <viz:position x="-324.03772" y="35.24703"></viz:position>
@@ -552,6 +559,7 @@
           <attvalue for="numberofworks" value="753"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="12005"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="22.493849"></viz:size>
         <viz:position x="-173.36723" y="-27.13191"></viz:position>
@@ -705,6 +713,7 @@
           <attvalue for="numberofworks" value="2914"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="33203"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="75.0"></viz:size>
         <viz:position x="-111.98232" y="-157.44563"></viz:position>
@@ -773,6 +782,7 @@
           <attvalue for="numberofworks" value="720"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="89824"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="21.829525"></viz:size>
         <viz:position x="77.12169" y="-228.76668"></viz:position>
@@ -1368,6 +1378,7 @@
           <attvalue for="numberofworks" value="1085"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="69607"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="28.374342"></viz:size>
         <viz:position x="75.19947" y="-107.44407"></viz:position>
@@ -1419,6 +1430,7 @@
           <attvalue for="numberofworks" value="882"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="106369"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="25.02812"></viz:size>
         <viz:position x="12.477325" y="487.5119"></viz:position>
@@ -1487,6 +1499,7 @@
           <attvalue for="numberofworks" value="809"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="58534"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="23.650265"></viz:size>
         <viz:position x="-400.0574" y="25.297075"></viz:position>
@@ -1504,6 +1517,7 @@
           <attvalue for="numberofworks" value="1313"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="121028"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="37.182777"></viz:size>
         <viz:position x="62.801598" y="-70.614426"></viz:position>
@@ -2524,6 +2538,7 @@
           <attvalue for="numberofworks" value="2795"></attvalue>
           <attvalue for="maxyear" value="2018"></attvalue>
           <attvalue for="timescited1990to2019" value="43951"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="68.08612"></viz:size>
         <viz:position x="-361.45325" y="70.64136"></viz:position>
@@ -2830,6 +2845,7 @@
           <attvalue for="numberofworks" value="1495"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="101543"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="39.052723"></viz:size>
         <viz:position x="-56.815353" y="-155.9491"></viz:position>
@@ -2847,6 +2863,7 @@
           <attvalue for="numberofworks" value="703"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="25747"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="21.80492"></viz:size>
         <viz:position x="269.62134" y="155.1232"></viz:position>
@@ -2881,6 +2898,7 @@
           <attvalue for="numberofworks" value="913"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="69439"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="26.701231"></viz:size>
         <viz:position x="-58.548805" y="-118.64537"></viz:position>
@@ -2915,6 +2933,7 @@
           <attvalue for="numberofworks" value="720"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="21596"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="21.485062"></viz:size>
         <viz:position x="57.289757" y="510.70648"></viz:position>
@@ -3085,6 +3104,7 @@
           <attvalue for="numberofworks" value="896"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="14096"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="26.725836"></viz:size>
         <viz:position x="-44.557922" y="-94.94638"></viz:position>
@@ -4122,6 +4142,7 @@
           <attvalue for="numberofworks" value="654"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="57963"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="20.820738"></viz:size>
         <viz:position x="215.43639" y="285.97537"></viz:position>
@@ -7828,6 +7849,7 @@
           <attvalue for="numberofworks" value="1065"></attvalue>
           <attvalue for="maxyear" value="2019"></attvalue>
           <attvalue for="timescited1990to2019" value="214515"></attvalue>
+          <attvalue for="show_label" value="true"></attvalue>
         </attvalues>
         <viz:size value="30.859402"></viz:size>
         <viz:position x="221.03673" y="339.8001"></viz:position>
